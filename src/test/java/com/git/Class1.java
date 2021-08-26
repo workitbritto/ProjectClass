@@ -36,5 +36,14 @@ public class Class1 {
 	private void method10() {
 		// TODO Auto-generated method stub
 	}
+	
+	private void company() {
+		// TODO Auto-generated method stub
+
+	}
+	private void trust() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
