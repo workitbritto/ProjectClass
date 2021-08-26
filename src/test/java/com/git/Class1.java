@@ -24,5 +24,11 @@ public class Class1 {
 	
 
 	}
+	private void method6() {
+	}
+	
+	
+		private void method7() {
+	}
 
 }
