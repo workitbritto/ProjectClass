@@ -53,5 +53,10 @@ public class Class1 {
 		
 
 	}
+	private void anchor() {
 
+	}
+	private void anchorRagu() {
+
+	}
 }
