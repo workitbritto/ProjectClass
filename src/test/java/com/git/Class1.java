@@ -24,5 +24,15 @@ public class Class1 {
 	
 
 	}
+	
+	private void method9() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void method10() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
