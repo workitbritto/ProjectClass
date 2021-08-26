@@ -45,5 +45,13 @@ public class Class1 {
 		// TODO Auto-generated method stub
 
 	}
+	private void apple() {
+		
+
+	}
+	private void banana() {
+		
+
+	}
 
 }
