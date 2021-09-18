@@ -2,25 +2,17 @@ package com.git;
 
 public class Class3 {
 
-private void t1() {
-	System.out.println("a");
-}
-private void t2() {
-	System.out.println("b");
-}
-private void t3() {
-System.out.println("c");
-}
-private void hyd() {
-	System.out.println("hyderabad");
+private void method1() {
+	System.out.println("m1");
 
 }
-private void chennai() {
-	System.out.println("chennai");
+private void method2() {
+	System.out.println("m2");
 
 }
-private void banglore() {
-	System.out.println("banglore");
+private void method3() {
+	System.out.println("m3");
+
 }
 }
 
