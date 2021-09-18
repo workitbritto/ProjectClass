@@ -64,4 +64,19 @@ public class Class1 {
 	private void mango() {
 		
 	}
+	
+	private void india() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void australia() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void america() {
+		// TODO Auto-generated method stub
+
+	}
 }
