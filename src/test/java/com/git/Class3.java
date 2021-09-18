@@ -1,7 +1,7 @@
 package com.git;
 
 public class Class3 {
-
+	
 	public void login() {
 		System.out.println("login");
 	}
@@ -13,4 +13,5 @@ public class Class3 {
 	public void bookAPage() {
 		System.out.println("confirm");
 	}
+	
 }
