@@ -22,6 +22,17 @@ private void chennai() {
 private void banglore() {
 	System.out.println("banglore");
 }
+private void apple() {
+	System.out.println("apple");
+}
+private void mango() {
+	System.out.println("mango");
+
+}
+private void orange() {
+	System.out.println("orange");
+
+}
 }
 
 	
