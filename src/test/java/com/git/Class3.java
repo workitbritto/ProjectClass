@@ -1,16 +1,6 @@
 package com.git;
 
 public class Class3 {
-	private void P1() {
-System.out.println("P!");
-	}
-	private void P2() {
-		System.out.println("P!");
-			}
-	private void P3() {
-		System.out.println("P!");
-			}
-
 	private void t1() {
 		System.out.println("a");
 	}
@@ -72,4 +62,14 @@ private void method6() {
 	public void bookAPage() {
 		System.out.println("confirm");
 	}
+	private void P1() {
+		System.out.println("P!");
+			}
+			private void P2() {
+				System.out.println("P!");
+					}
+			private void P3() {
+				System.out.println("P!");
+					}
+
 }
