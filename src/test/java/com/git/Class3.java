@@ -8,4 +8,7 @@ public class Class3 {
 	private void SeleniumClass() {
 		System.out.println("SeleniumClass");
 	}
+	private void PythonClass() {
+		System.out.println("PythonClass");
+	}
 }
