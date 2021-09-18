@@ -1,8 +1,32 @@
 package com.git;
 
 public class Class3 {
+	private void P1() {
+System.out.println("P!");
+	}
+	private void P2() {
+		System.out.println("P!");
+			}
+	private void P3() {
+		System.out.println("P!");
+			}
 
-<<<<<<< HEAD
+	private void t1() {
+		System.out.println("a");
+	}
+
+	private void t2() {
+		System.out.println("b");
+	}
+
+	private void t3() {
+		System.out.println("c");
+	}
+
+	private void hyd() {
+		System.out.println("hyderabad");
+
+	}
 private void method1() {
 	System.out.println("m1");
 
@@ -27,27 +51,6 @@ private void method6() {
 	System.out.println("m6");
 
 }
-
-
-}
-=======
-	private void t1() {
-		System.out.println("a");
-	}
-
-	private void t2() {
-		System.out.println("b");
-	}
-
-	private void t3() {
-		System.out.println("c");
-	}
-
-	private void hyd() {
-		System.out.println("hyderabad");
->>>>>>> 32119ecbc25c49c42e46dd1d52aa0820b97ecc36
-
-	}
 
 	private void chennai() {
 		System.out.println("chennai");
