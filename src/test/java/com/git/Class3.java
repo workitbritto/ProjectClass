@@ -2,7 +2,6 @@ package com.git;
 
 public class Class3 {
 
-<<<<<<< HEAD
 private void method1() {
 	System.out.println("m1");
 
@@ -28,9 +27,6 @@ private void method6() {
 
 }
 
-
-}
-=======
 	private void t1() {
 		System.out.println("a");
 	}
@@ -45,7 +41,7 @@ private void method6() {
 
 	private void hyd() {
 		System.out.println("hyderabad");
->>>>>>> 32119ecbc25c49c42e46dd1d52aa0820b97ecc36
+
 
 	}
 
@@ -68,5 +64,14 @@ private void method6() {
 
 	public void bookAPage() {
 		System.out.println("confirm");
+	}
+	private void work() {
+		System.out.println("work");
+	}
+	private void success() {
+		System.out.println("work with enjoyment");
+	}
+	private void live() {
+		System.out.println("live with happy and peace");
 	}
 }
