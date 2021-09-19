@@ -36,6 +36,15 @@ public class Class3 {
 		System.out.println("method-7");
 
 	}
+	private void work() {
+		System.out.println("work");
+	}
+	private void success() {
+		System.out.println("work with enjoyment");
+	}
+	private void live() {
+		System.out.println("live with happy and peace");
+	}
 	public static void main(String[] args) {
 		
 	Class3 cls =new Class3();
@@ -46,6 +55,9 @@ public class Class3 {
 	cls.method5();
 	cls.method6();
 	cls.method7();
+	cls.work();
+	cls.success();
+	cls.live();
 	
 	}
 
